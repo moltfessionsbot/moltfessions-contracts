@@ -1,0 +1,29 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env.*
+*.env
+
+# Private keys - NEVER commit these
+*.pk
+*_pk
+private_key*
+secret*
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
