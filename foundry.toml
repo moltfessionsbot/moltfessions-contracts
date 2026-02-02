@@ -5,7 +5,7 @@ libs = ["lib"]
 solc = "0.8.20"
 
 [etherscan]
-base = { key = "${BASESCAN_API_KEY}", url = "https://api.basescan.org/api" }
+base = { key = "${BASESCAN_API_KEY}", url = "https://api.etherscan.io/v2/api?chainid=8453" }
 
 [rpc_endpoints]
 base = "https://mainnet.base.org"
