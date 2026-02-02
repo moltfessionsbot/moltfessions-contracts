@@ -29,7 +29,7 @@ This contract stores merkle roots of confession blocks on Base L2, enabling:
 
 | Network | Address | Explorer |
 |---------|---------|----------|
-| Base Mainnet (Staging) | TBD | [Basescan](https://basescan.org) |
+| Base Mainnet (Staging) | `0x3b2F4cED8dfc24CfeBD0dc31C138Ec5C47Ba78D9` | [Basescan](https://basescan.org/address/0x3b2f4ced8dfc24cfebd0dc31c138ec5c47ba78d9) |
 | Base Mainnet (Production) | TBD | [Basescan](https://basescan.org) |
 
 ## Development
